@@ -18,7 +18,7 @@ A production-ready SaaS starter kit built with Next.js 16, featuring authenticat
 ## Project Structure
 
 ```
-saas-starter/
+saas-starter-kit/
 ├── src/
 │   ├── app/
 │   │   ├── (auth)/          # Authentication pages
@@ -63,7 +63,7 @@ saas-starter/
 
 ```bash
 git clone <your-repo>
-cd saas-starter
+cd saas-starter-kit
 npm install
 ```
 
@@ -340,8 +340,8 @@ MIT License - feel free to use this starter for your projects!
 ## Support
 
 - Documentation: [Next.js Docs](https://nextjs.org/docs)
-- Community: [GitHub Discussions](https://github.com/yourusername/saas-starter/discussions)
-- Issues: [GitHub Issues](https://github.com/yourusername/saas-starter/issues)
+- Community: [GitHub Discussions](https://github.com/uxfris/saas-starter-kit/discussions)
+- Issues: [GitHub Issues](https://github.com/uxfris/saas-starter-kit/issues)
 
 ---
 
