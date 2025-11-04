@@ -1,6 +1,6 @@
 # Modern Next.js SaaS Starter Kit
 
-A production-ready SaaS starter kit built with Next.js 15, featuring authentication, payments, AI integration, and full-stack type safety.
+A production-ready SaaS starter kit built with Next.js 16, featuring authentication, payments, AI integration, and full-stack type safety.
 
 ## Features
 
